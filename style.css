@@ -1,0 +1,33 @@
+
+h1{ text-align: center;
+    color:blue;
+} 
+h2{
+    color: aqua;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: blueviolet;
+}
+#date{
+    color: red;
+    font-size: medium;
+} 
+
+.actvs{
+    color: darkgoldenrod;
+}
+div{
+    text-align: center;
+}
+
+p2{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: row-reverse;
+}
