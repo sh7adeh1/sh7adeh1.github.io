@@ -10,7 +10,7 @@ h3{
     text-align: center;
     color: blueviolet;
 }
-#date{
+.date{
     color: red;
     font-size: medium;
 } 
@@ -20,6 +20,11 @@ h3{
 }
 div{
     text-align: center;
+    /* background-color: aqua; */
+}
+
+.flex {
+    background-color: transparent; /* or any other color you prefer */
 }
 
 p2{
