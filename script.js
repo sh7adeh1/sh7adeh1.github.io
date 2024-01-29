@@ -1,1 +1,0 @@
-let accountBalance = 4;
